@@ -1,3 +1,3 @@
 # Git seminar
 
-This repository is meant to be a *kata*, to practice Git a bit!
+This repositorda<ddgx cgcdfyt is meant to be a *kata*, to practice Git a bit!
